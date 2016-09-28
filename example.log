@@ -1,0 +1,3 @@
+DEBUG main LogTest - This is debug message.
+INFO main LogTest - This is info message.
+ERROR main LogTest - This is error message.
